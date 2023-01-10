@@ -1,4 +1,4 @@
-# 16 janvier 2023
+# 16.01.23
 
 Today we will do some activities:
 
