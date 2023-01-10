@@ -13,9 +13,8 @@ Read and understand the article **Coding is for everyone**
 * What are the linguistic differences between programming english and wiki markup?
 * What is an esoteric programming language?
 
+### group work
 
-* group work
-
-* listening
+### listening
 
 Homeworks:
