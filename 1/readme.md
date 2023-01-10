@@ -2,10 +2,10 @@
 
 Today we will do some activities:
 
-    entry test
+* entry test
 
-    group work
+* group work
 
-    listening
+* listening
 
 Homeworks:
