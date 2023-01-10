@@ -17,4 +17,7 @@ Read and understand the article **Coding is for everyone**
 
 https://www.youtube.com/watch?v=NMWzgy8FsKs
 
-Homeworks:
+### Homeworks :
+
+Exercises at page 122 of the PDF file
+
