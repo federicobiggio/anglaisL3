@@ -2,6 +2,17 @@
 
 Today we will do some activities:
 
+### icebreaking
+
+https://tinyurl.com/anglais1-1
+
+What programming is ?
+
+...the process of writing a program using a computer language...
+
+nothing more ?
+
+
 ### entry test
 
 Read and understand the article **Coding is for everyone**
