@@ -1,6 +1,6 @@
 # Hello !
 
-Welcome to the English cours L3
+Bienvenue au cours d'anglais pour L3
 
 prof. Federico Biggio e-mail : federico.biggio02@univ-paris8.fr
 
