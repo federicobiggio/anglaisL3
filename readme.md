@@ -12,12 +12,12 @@ Des outils que vous pouvez outiliser à l'appui du cours :
 * Thesaurus https://www.thesaurus.com/
 * the pdf glossary
 
-###### Program
+### Program
 
-16.01.23 – introduction, 
-23.01.23 - ***
-30.01.23 – ***
-06.02.23 – ***
-13.02.23 – *** + exposés 
-20.02.23 – *** + exposés
-27.03.23 – exposés
+* 16.01.23 – introduction, 
+* 23.01.23 - ***
+* 30.01.23 – ***
+* 06.02.23 – ***
+* 13.02.23 – *** + exposés 
+* 20.02.23 – *** + exposés
+* 27.03.23 – exposés
