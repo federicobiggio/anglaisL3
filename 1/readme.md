@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=5xNkYzGnPYI&t=35s
 
 ### Homeworks :
 
-Exercises at page 122 of the PDF file
+Exercises at page 122 of Programming 1
 
 Reading 500 words : what AI is?
 
