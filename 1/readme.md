@@ -26,9 +26,11 @@ Read and understand the article **Coding is for everyone**
 
 ### listening
 
-https://www.youtube.com/watch?v=NMWzgy8FsKs
+https://www.youtube.com/watch?v=5xNkYzGnPYI&t=35s
 
 ### Homeworks :
 
 Exercises at page 122 of the PDF file
+
+Reading 500 words : what AI is?
 
