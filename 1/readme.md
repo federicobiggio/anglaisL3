@@ -4,7 +4,7 @@ Today we will do some activities:
 
 ### icebreaking
 
-https://tinyurl.com/anglais1-1
+https://miro.com/welcomeonboard/SUU4NU5kQ1BXNzcxa2xLNHFCT0JUQ2xnMjBKakZzWjJkdndVUDVTeXNmcXYza2VNeHREdlhvbGpSWmJSZEJDVHwzNDU4NzY0NTQwMTk1MjIxMDIwfDI=?share_link_id=467965903453
 
 What programming is ?
 
