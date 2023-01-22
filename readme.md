@@ -21,9 +21,9 @@ Quel que soit le sujet de l'exposé, il doit être structuré comme suit :
 ### Program
 
 * 16.01.23 – introduction, entry test, GPT
-* 23.01.23 - Java, role play, Fortran
+* 23.01.23 - Cloud Computing, 
 * 30.01.23 – Database, 
-* 06.02.23 – Jobs
-* 13.02.23 – *** + exposés 
-* 20.02.23 – *** + exposés
-* 27.03.23 – exposés
+* 06.02.23 – Jobs,
+* 13.02.23 – ***, exposés
+* 20.02.23 – ***, exposés
+* 27.03.23 – ***, exposés
