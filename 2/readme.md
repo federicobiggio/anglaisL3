@@ -11,10 +11,10 @@ Pour être sûr, vérifiez cette page avant chaque cours, je posterai les avis i
 
 > cloud-computing.pdf
 
-*1- find the definitions of highlighted words and expressions
-*2- highlight metaphorical description of the cloud computing
-*3- what expressions describe the opposite of cloud computing?
-*4- identify and describe terms of the electrical engineering sector
+* 1- find the definitions of highlighted words and expressions
+* 2- highlight metaphorical description of the cloud computing
+* 3- what expressions describe the opposite of cloud computing?
+* 4- identify and describe terms of the electrical engineering sector
 
 4)
 ***listening***
