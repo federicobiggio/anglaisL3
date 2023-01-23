@@ -13,3 +13,11 @@
 
 > https://www.youtube.com/watch?v=b1w9_cob_zw
 
+5)
+***work group on embodied media ***
+
+> use MIRO, or whatever you are able to digitally share with others
+
+6) homework
+
+> https://www.youtube.com/watch?v=FlfZ9FNC99k
