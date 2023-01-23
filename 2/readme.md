@@ -1,5 +1,8 @@
 # 23.01.23
 
+A partir de maintenant, la salle de classe correcte est A043.
+Pour être sûr, vérifiez cette page avant chaque cours, je posterai les avis ici.
+
 1) clarifications et "questions" sur les présentations
 2) envoi d'exercices
 
