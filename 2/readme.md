@@ -9,6 +9,7 @@
 > cloud-computing.pdf
 
 4)
-***reading***
+***listening***
 
+> https://www.youtube.com/watch?v=b1w9_cob_zw
 
