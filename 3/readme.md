@@ -30,6 +30,7 @@ Finally, invent an acronym for the cloud-computing system you described
 
 homework
 
+> answer to the questions of the LISTENING exercise
 > ex-db2.pdf <br>
 > Weiser-Computer21stentury.pdf : read it and summarize in 500 words <br>
 > https://www.youtube.com/watch?v=FlfZ9FNC99k : watch it and prepare some ideas about it to discuss next time
