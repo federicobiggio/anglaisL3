@@ -19,9 +19,7 @@ Exercise on cloud image:
 
 homework
 
-> answer to the questions of the LISTENING exercise <br>
-> ex-db2.pdf <br>
-> Weiser-Computer21stentury.pdf : read it and summarize in 500 words <br>
-> https://www.youtube.com/watch?v=FlfZ9FNC99k : watch it and prepare some ideas about it to discuss next time
-
-
+> - answer to the questions of the LISTENING exercise <br>
+> - ex-db2.pdf <br>
+> - Weiser-Computer21stentury.pdf : read it and summarize in 500 words <br>
+> - https://www.youtube.com/watch?v=FlfZ9FNC99k : watch it and prepare some ideas about it to discuss next time
