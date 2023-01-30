@@ -17,4 +17,6 @@ Exercise on cloud image:
 
 Finally, invent an acronym for the cloud-computing system you described
 
+homework
 
+> https://www.youtube.com/watch?v=FlfZ9FNC99k
