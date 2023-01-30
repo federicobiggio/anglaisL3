@@ -14,3 +14,7 @@ Exercise on cloud image:
 * .environment
 * .port
 * .cable
+
+Finally, invent an acronym for the cloud-computing system you described
+
+
