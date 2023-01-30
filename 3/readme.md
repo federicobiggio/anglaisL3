@@ -1,3 +1,14 @@
+LISTENING:
+
+* .What is CSL?
+* .according to which criteria are UbiComp's devices classified?
+* .which devices are described?
+* .which applications?
+* .which technologies does it integrate?
+* .what is the reason for separating the computational engine from the portable display device?
+* .what hardware components does the MPAD consist of?
+* .What are the three engineers working on?
+* .What are the main advantages of UbiComp according to the speaker?
 
 Exercise on cloud image: 
 * 1-Search the web for cloud images using cloud computing metaphors
