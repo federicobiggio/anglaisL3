@@ -9,4 +9,4 @@
 > 
 
 ## homeworks
-
+> exercise 3 at p. 2
