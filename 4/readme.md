@@ -4,7 +4,7 @@
 2. ex-db2.pdf : correction or unfolding ?
 3. work on hackers 
 
-> take hacker.pdf
+> take hacker.pdf <br>
 > read p. 2
 > 
 
