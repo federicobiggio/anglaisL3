@@ -17,13 +17,3 @@ Quel que soit le sujet de l'exposé, il doit être structuré comme suit :
 * brève introduction (historique-culturelle, pas plus de 2-3 minutes)
 * caractéristiques techniques 
 * fonction et utilisation (sociale, économique, etc.)
-
-### Program
-
-* 16.01.23 – introduction, entry test, GPT
-* 23.01.23 - Cloud Computing, 
-* 30.01.23 – Database, 
-* 06.02.23 – Jobs,
-* 13.02.23 – ***, exposés
-* 20.02.23 – ***, exposés
-* 27.02.23 – ***, exposés
